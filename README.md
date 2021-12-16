@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Runquan Ye</h1>
 <h3 align="center">GVSU Senior majoring in Computer Science seeking a computer application developer full-time job.</h3>
+<h3 align="center">This is one of my Github accounts for research purpose and store my tutorial notes.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouseki&label=Profile%20views&color=0e75b6&style=flat" alt="mouseki" /> </p>
 
