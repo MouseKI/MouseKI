@@ -9,7 +9,8 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - This is one of my Github accounts for research purpose and store my tutorial notes.
-- 📫 How to reach me **Jerry347702526@gmail.com**
+- My nickname is Jerry 🐭.
+- 📫 How to reach me **Jerry347702526@gmail.com**, **yer@mail.gvsu.edu**
 
 
 <h3 align="left">Languages and Tools:</h3>
