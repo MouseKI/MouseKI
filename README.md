@@ -52,6 +52,6 @@
 <br />
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouseki&show_icons=true&locale=en&margin-h=8" alt="mouseki" /></p>
+<p style="margin-top: 2em;">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mouseki&show_icons=true&locale=en" alt="mouseki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mouseki&" alt="mouseki" /></p>
