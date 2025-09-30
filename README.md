@@ -10,7 +10,7 @@
 
 - This is one of my GitHub accounts for research purposes and to store my study notes.
 - My nickname is Jeremy 🐭.
-- 📫 How to reach me **Jerry347702526@gmail.com**, **yer@mail.gvsu.edu**
+- 📫 How to reach me **Jerry347702526@gmail.com**
 
 ### Languages:
 <img align="left" alt="Java" width="40px" src="https://img.icons8.com/nolan/64/java-coffee-cup-logo.png"/>
