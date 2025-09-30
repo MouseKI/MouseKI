@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Runquan Ye</h1>
-<!-- <h3 align="center">GVSU Senior majoring in Computer Science seeking a computer application developer full-time job.</h3> -->
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mouseki&label=Profile%20views&color=0e75b6&style=flat" alt="mouseki" /> </p>
 
@@ -10,8 +8,8 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- This is one of my Github accounts for research purpose and store my tutorial notes.
-- My nickname is Jerry 🐭.
+- This is one of my GitHub accounts for research purposes and to store my study notes.
+- My nickname is Jeremy 🐭.
 - 📫 How to reach me **Jerry347702526@gmail.com**, **yer@mail.gvsu.edu**
 
 ### Languages:
